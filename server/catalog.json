@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Over-ear active noise canceling headphones with 30-hour battery life.",
+    "category": "Electronics",
+    "price": 99.99
+  },
+  {
+    "id": 2,
+    "title": "Smart Fitness Watch",
+    "description": "Tracks heart rate, sleep, steps, and features built-in GPS.",
+    "category": "Electronics",
+    "price": 149.50
+  },
+  {
+    "id": 3,
+    "title": "Casual Cotton T-Shirt",
+    "description": "100% breathable organic cotton daily wear t-shirt for men and women.",
+    "category": "Apparel",
+    "price": 19.99
+  },
+  {
+    "id": 4,
+    "title": "Ergonomic Office Chair",
+    "description": "Adjustable lumbar support mesh desk chair with padded armrests.",
+    "category": "Home",
+    "price": 220.00
+  },
+  {
+    "id": 5,
+    "title": "Data Science Handbook",
+    "description": "A comprehensive guide to Python, machine learning, and data analytics.",
+    "category": "Books",
+    "price": 45.00
+  }
+]
